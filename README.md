@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi 👋, I'm Mansi
 
-<!--
-**mansii74/mansii74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science student  
+📊 Aspiring Data Analyst / Data Scientist  
+💡 Interested in AI, Data, and Problem Solving  
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Python | SQL | C++
+- Power BI | Tableau | Excel
+- DBMS | Data Analysis | Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- 📊 Student Lifestyle Analysis  
+- 📈 LeetCode Dashboard Analysis  
+- ⚖️ LawAware Platform  
+
+### 🌱 Currently Learning
+- Advanced SQL
+- Machine Learning Basics
+
+### 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/your-link
+- Email: yourmail@gmail.com
